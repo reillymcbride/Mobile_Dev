@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">College Planner</string>
+    <string name="addACollege">Add College</string>
+    <string name="saveButton">Save</string>
+    <string name="homeButton">Home</string>
+    <string name="seeColleges">See My Colleges</string>
+    <string name="searchColleges">Search</string>
+
+    <string name="instructionsHome">Welcome to College Planner!
+        \nIf you have not added a school yet,
+        \nthat should be your first step.
+        \nFollow the all in-app instructions
+        \ncarefully for best results.</string>
+
+    <string name="myColleges">My Colleges</string>
+    <string name="collegeName">College Name</string>
+    <string name="collegeDeadline">College Deadline \n(Mon #)</string>
+    <string name="intendedMajor">Intended Major \n(Use Consistent \nNames)</string>
+    <string name="decisionPlan">Decision Plan: \nRolling, ED, EA, \nREA, RD, ED2</string>
+    <string name="platform">Platform: ComApp, \nCoApp, Indep</string>
+    <string name="interview">Interview? </string>
+    <string name="yes">Yes</string>
+
+    <string name="searchInstructions">Select Search Criteria</string>
+    <string name="searchDeadline">Deadline</string>
+    <string name="searchMajor">Major</string>
+    <string name="searchPlan">Decision Plan</string>
+    <string name="searchPlatform">Platform</string>
+    <string name="searchInterview">Interview</string>
+
+    <string name="searchButton">Search</string>
+
+    <string name="searchResults">Search Results</string>
+
+    <string name="tempText">temp</string>
+    <string name="saveData">Save</string>
+    <string name="delete">Delete School</string>
+
+</resources>

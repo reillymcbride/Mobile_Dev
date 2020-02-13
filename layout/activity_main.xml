@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/background"
+        tools:context="com.sample.foo.collegeapphelper.CollegeAdder">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:padding="20dp"
+            android:text="@string/instructionsHome"/>
+
+        <Button
+            android:id="@+id/addCollege"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/addACollege"/>
+
+        <Button
+            android:id="@+id/seeColleges"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/seeColleges"/>
+        <Button
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/searchColleges"/>
+
+    </LinearLayout>
+</layout>
